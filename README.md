@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Ezra!
+
+I'm a full-stack web developer with a background in real-time telemetry visualization and command & control for communications infrastructure and robotics, especially for near-earth spaceflight applications.
+
+- 💼 I'm currently working for 🦾 [PickNik Robotics](https://github.com/PickNikRobotics) on an SDK to make developing and controlling your next robotics project easier.
+- 💬 Ask me about visualization and command of real-time systems on the web, especially in 🛡 Angular or ⚛️ React.
+- 🌱 I'm always looking to learn new things about robotics and spaceflight and work on interesting projects!
 
 <!--
 **EzraBrooks/EzraBrooks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
