@@ -1,8 +1,9 @@
 ### Hi, I'm Ezra!
 
-I'm a full-stack web developer with a background in real-time telemetry visualization and command & control for communications infrastructure and robotics, especially for near-earth spaceflight applications.
+I'm a full-stack software engineer with a background in real-time telemetry visualization and command & control for communications infrastructure and robotics, especially for near-earth spaceflight applications.
 
 - 💼 I'm currently working for 🦾 [PickNik Robotics](https://github.com/PickNikRobotics) on an SDK to make developing and controlling your next robotics project easier.
+- 🚀 I'm a member of the Space ROS project committee. I hope to use my experience integrating spaceflight and ground test systems to help ROS solve hard problems in flight and ground software.
 - 💬 Ask me about visualization and command of real-time systems on the web, especially in 🛡 Angular or ⚛️ React.
 - 🌱 I'm always looking to learn new things about robotics and spaceflight and work on interesting projects!
 
