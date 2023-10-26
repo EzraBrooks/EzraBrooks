@@ -1,23 +1,9 @@
 ### Hi, I'm Ezra!
 
-I'm a full-stack software engineer with a background in real-time telemetry visualization and command & control for communications infrastructure and robotics, especially for near-earth spaceflight applications.
+I'm a senior software engineer who specializes in real-time visualization and control of space communications infrastructure and robots.
 
-- 💼 I'm currently working for 🦾 [PickNik Robotics](https://github.com/PickNikRobotics) on an SDK to make developing and controlling your next robotics project easier.
-- 🚀 I'm a member of the Space ROS project committee. I hope to use my experience integrating spaceflight and ground test systems to help ROS solve hard problems in flight and ground software.
-- 💬 Ask me about visualization and command of real-time systems on the web, especially in 🛡 Angular or ⚛️ React.
-- 🌱 I'm always looking to learn new things about robotics and spaceflight and work on interesting projects!
-
-<!--
-**EzraBrooks/EzraBrooks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm:
+- 💼 currently working for 🦾 [PickNik Robotics](https://github.com/PickNikRobotics) on [MoveIt Studio](https://picknik.ai/studio), an SDK and operator GUI for complex autonomous robotic manipulator systems.
+- 🚀 a leading member of the Space ROS project committee.
+- 🕸️ a maintainer of the Robot Web Tools project.
+- 👨‍💻 familiar with many languages and frameworks at all depths of the space and robotics software stacks, from React/TypeScript frontends to Java/C++ telemetry processing systems to pure C hardware drivers.
